@@ -1,0 +1,29 @@
+body{
+    /* background-color:purple; */
+    margin:0;
+    background-color:purple;
+    background:transparent;
+    /* top, transparent red */ 
+     /* linear-gradient(
+      rgba(211, 202, 202, 0.45), 
+      rgba(194, 3, 162, 0.45));  */
+    /* background-blend-mode:overlay;   */
+    /* opacity:0.1; */
+}
+
+#header{
+    background-color:blue;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:30px;
+}
+
+marquee{
+    margin:0;
+    background-color:black;
+    height:50%;
+    color:white;
+    width:100%;
+    font-size:50px;
+}
+
